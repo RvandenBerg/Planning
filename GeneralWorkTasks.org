@@ -1,0 +1,4 @@
+* Onderwijs
+** DONE Gesprek met Robert over literatuurscriptie
+   SCHEDULED: <2013-06-24 Mon 14:30>
+* Lab duties

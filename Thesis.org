@@ -1,0 +1,29 @@
+* EAE in KIF1B Paper
+** NEXT Artikel over absence of evidence uitpluizen
+  CLOCK: [2013-03-20 Wed 15:24]--[2013-03-20 Wed 15:24] =>  0:00
+[2013-03-20 Wed 15:24]
+[[file:~/FTP_Data/KIF1B_EAE_Paper/Text/KIF1B_EAE_Paper.tex::Interestingly,%20an%20association%20between%20KIF1B%20and%20disease%20susceptibility%20was%20also%20found%20for%20Multiple%20Sclerosis%20(MS)%20\citep{aulchenko:2008}.%20This%20finding%20came%20at%20a%20moment%20when%20the%20general%20thought%20about%20MS%20pathogenesis%20was%20changing.%20Classically,%20MS%20had%20been%20considered%20to%20be%20an%20autoimmune%20disorder,%20but%20although%20involvement%20of%20the%20immune%20system%20is%20still%20considered%20to%20be%20a%20key%20component%20of%20the%20disease,%20MS%20is%20gradually%20being%20considered%20to%20also%20contain%20a%20neurodegenerative%20component%20\citep{stys:2012}.%20KIF1B%20was%20not%20alone,%20other%20kinesin%20family%20members%20like%20KIF5A%20\citep{Vandenbroeck:2010}%20and%20KIF21B%20\citep{IMSGC:2010}%20were%20also%20found%20as%20susceptibility%20loci%20for%20MS%20in%20large%20genome-wide%20association%20studies.%20After%20the%20initial%20reports,%20further%20research%20supported%20the%20role%20of%20KIF5A%20\citep{Alcina:2013}%20and%20KIF21B%20\citep{Goris:2010},%20but%20a%20follow-up%20study%20failed%20to%20reproduce%20the%20association%20between%20the%20SNP%20in%20KIF1B%20and%20MS%20\citep{booth:2010}.%20Several%20explanations%20have%20been%20presented%20for%20this%20discrepancy,%20such%20as%20a%20difference%20in%20risk%20allele%20frequency%20in%20the%20Dutch%20population%20in%20which%20the%20original%20study%20was%20performed%20\citep{hintzen:2010}.%20A%20meta-analysis%20using%20equivalence-based%20statistics%20suggested%20that%20the%20association%20between%20the%20SNP%20in%20KIF1B%20and%20MS%20is%20not%20present%20in%20the%20worldwide%20patient%20population%20\citep{gourraud:2011}.\\][file:~/FTP_Data/KIF1B_EAE_Paper/Text/KIF1B_EAE_Paper.tex::Interestingly, an association between KIF1B and disease susceptibility was also found for Multiple Sclerosis (MS) \citep{aulchenko:2008}. This finding came at a moment when the general thought about MS pathogenesis was changing. Classically, MS had been considered to be an autoimmune disorder, but although involvement of the immune system is still considered to be a key component of the disease, MS is gradually being considered to also contain a neurodegenerative component \citep{stys:2012}. KIF1B was not alone, other kinesin family members like KIF5A \citep{Vandenbroeck:2010} and KIF21B \citep{IMSGC:2010} were also found as susceptibility loci for MS in large genome-wide association studies. After the initial reports, further research supported the role of KIF5A \citep{Alcina:2013} and KIF21B \citep{Goris:2010}, but a follow-up study failed to reproduce the association between the SNP in KIF1B and MS \citep{booth:2010}. Several explanations have been presented for this discrepancy, such as a difference in risk allele frequency in the Dutch population in which the original study was performed \citep{hintzen:2010}. A meta-analysis using equivalence-based statistics suggested that the association between the SNP in KIF1B and MS is not present in the worldwide patient population \citep{gourraud:2011}.\\]]
+** NEXT Definitieve figuren met legends en titel kif1b
+  CLOCK: [2013-04-06 Sat 20:33]--[2013-04-06 Sat 20:34] =>  0:01
+[2013-04-06 Sat 20:33]
+[[file:~/FTP_Data/Planning/org/refile.org]]
+* Analysis of EAE using Rotarod and immunofluorescence
+* Introduction to superresolution
+** TODO Gesprek met Lukas over thesis
+  CLOCK: [2013-06-24 Mon 11:46]--[2013-06-24 Mon 11:46] =>  0:00
+[2013-06-24 Mon 11:46]
+* Correlation between KIF family members
+* Review on transport in MS
+* Manuals
+** NEXT Handleiding statistiek stuk over for-loops toevoegen
+  CLOCK: [2013-05-07 Tue 07:51]--[2013-05-07 Tue 07:51] =>  0:00
+[2013-05-07 Tue 07:51]
+[[file:~/FTP_Data/Planning/org/Work.org::*Kluver%20Barrera%20series][Kluver Barrera series]]
+** NEXT Handleiding statistiek stuk over functions toevoegen
+  CLOCK: [2013-05-07 Tue 07:51]--[2013-05-07 Tue 07:51] =>  0:00
+[2013-05-07 Tue 07:51]
+[[file:~/FTP_Data/Planning/org/Work.org::*Kluver%20Barrera%20series][Kluver Barrera series]]
+** NEXT Handleiding statiestiek uitleg vector en c() toevoegen
+  CLOCK: [2013-05-07 Tue 07:51]--[2013-05-07 Tue 07:51] =>  0:00
+[2013-05-07 Tue 07:51]
+[[file:~/FTP_Data/Planning/org/Work.org::*Kluver%20Barrera%20series][Kluver Barrera series]]

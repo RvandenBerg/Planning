@@ -1,0 +1,15 @@
+* Stainings
+** TODO Confocal Oost 13RS09 and 13RS10
+  SCHEDULED: <2013-06-25 Tue 11:00>
+  CLOCK: [2013-06-24 Mon 11:37]--[2013-06-24 Mon 11:38] =>  0:01
+[2013-06-24 Mon 11:37]
+** DONE Confocal data 24-06 analyseren
+  SCHEDULED: <2013-06-24 Mon 13:30>
+  CLOCK: [2013-06-24 Mon 11:42]--[2013-06-24 Mon 11:43] =>  0:01
+[2013-06-24 Mon 11:42]
+* Analysis
+** NEXT kweeksysteem cerebellaire migratie uitzoeken
+  CLOCK: [2013-05-06 Mon 16:20]--[2013-05-06 Mon 16:20] =>  0:00
+[2013-05-06 Mon 16:20]
+[[file:~/FTP_Data/Planning/org/Work.org::*IP%20data%20BICD%20analyseren][IP data BICD analyseren]]
+* Collaboration

@@ -1,0 +1,25 @@
+* KIF family members correlation
+** NEXT Analyse KIF5A mutaties in ziekte
+  CLOCK: [2013-06-20 Thu 10:59]--[2013-06-20 Thu 10:59] =>  0:00
+[2013-06-20 Thu 10:59]
+[[file:~/FTP_Data/Planning/org/Work.org::*Presentatie%20Voorbereiden][Presentatie Voorbereiden]]
+* Rotarod and clinical score correlation
+* Karin analysis APP animals
+** NEXT Analyse Data Karin
+  SCHEDULED: <2013-06-21 Fri>
+  CLOCK: [2013-06-20 Thu 10:58]--[2013-06-20 Thu 10:58] =>  0:00
+[2013-06-20 Thu 10:58]
+[[file:~/FTP_Data/Planning/org/Work.org::*Presentatie%20Voorbereiden][Presentatie Voorbereiden]]
+* Various short analysis
+** DONE Confocal data cilia 13RS09 analyseren
+  SCHEDULED: <2013-06-21 Fri>
+  CLOCK: [2013-06-20 Thu 18:51]--[2013-06-20 Thu 18:51] =>  0:00
+[2013-06-20 Thu 18:51]
+** NEXT Read graph databases manual
+  CLOCK: [2013-05-07 Tue 07:51]--[2013-05-07 Tue 07:51] =>  0:00
+[2013-05-07 Tue 07:51]
+[[file:~/FTP_Data/Planning/org/Work.org::*Kluver%20Barrera%20series][Kluver Barrera series]]
+** NEXT Marleen data analyse
+  CLOCK: [2013-06-20 Thu 10:59]--[2013-06-20 Thu 10:59] =>  0:00
+[2013-06-20 Thu 10:59]
+[[file:~/FTP_Data/Planning/org/Work.org::*Presentatie%20Voorbereiden][Presentatie Voorbereiden]]
