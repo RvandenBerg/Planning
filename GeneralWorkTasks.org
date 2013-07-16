@@ -1,4 +1,14 @@
 * Onderwijs
 ** DONE Gesprek met Robert over literatuurscriptie
    SCHEDULED: <2013-06-24 Mon 14:30>
+** DONE Vergadering Robert over literatuurscriptie
+  SCHEDULED: <2013-07-11 Thu 16:00>
+  CLOCK: [2013-07-11 Thu 14:31]--[2013-07-11 Thu 14:32] =>  0:01
+[2013-07-11 Thu 14:31]
+[[file:~/FTP_Data/Planning/org/KIF1B.org::*Kluver-Barrera%20serie%20inzetten%20op%20nieuw%20materiaal%20MSIV%20en%20MSV][Kluver-Barrera serie inzetten op nieuw materiaal MSIV en MSV]]
 * Lab duties
+** TODO Nieuwe xyleen-vaste pennen bestellen
+   SCHEDULED: <2013-07-18 Thu>
+  CLOCK: [2013-07-16 Tue 15:18]--[2013-07-16 Tue 15:18] =>  0:00
+[2013-07-16 Tue 15:18]
+[[file:~/FTP_Data/Planning/org/Tubastatin.org::*Analysis%2013WB07][Analysis 13WB07]]

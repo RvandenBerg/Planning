@@ -18,16 +18,16 @@ http://www.blendernation.com/2013/04/18/tutorial-automating-tasks-in-blender-wit
 [2013-04-18 Thu 11:15]
 
 * Financien
-** NEXT Spaarrente bij nieuwe rekening Nationale Nederlanden uitzoeken
+** DONE Spaarrente bij nieuwe rekening Nationale Nederlanden uitzoeken
 
 * Gezondheid
-** NEXT Gesprek verpleegkundige Maasstad
+** DONE Gesprek verpleegkundige Maasstad
    SCHEDULED: <2013-06-27 Thu 15:45>
-** NEXT Gesprek gynaecoloog Maasstad
+** DONE Gesprek gynaecoloog Maasstad
    SCHEDULED: <2013-06-27 Thu 16:00>
 
 * Overig
-** NEXT Laptop opa en oma Tanis uitzoeken
+** DONE Laptop opa en oma Tanis uitzoeken
   CLOCK: [2013-05-28 Tue 14:50]--[2013-05-28 Tue 14:50] =>  0:00
   [2013-05-28 Tue 14:50]
 

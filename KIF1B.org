@@ -1,1 +1,28 @@
 * Analysis of EAE in KIF1B animals
+** TODO Kwantificatie aantal NF-h positieve axonen in MS materiaal
+  SCHEDULED: <2013-06-28 Fri 11:00>
+  CLOCK: [2013-06-28 Fri 07:57]--[2013-06-28 Fri 07:58] =>  0:01
+[2013-06-28 Fri 07:57]
+[[file:~/FTP_Data/Planning/org/BICD2.org::*13RS11%20afmaken][13RS11 afmaken]]
+** DONE Kluver-Barrera serie inzetten op nieuw materiaal MSIV en MSV
+  SCHEDULED: <2013-07-15 Mon 16:00>
+  CLOCK: [2013-07-11 Thu 12:04]--[2013-07-11 Thu 12:04] =>  0:00
+[2013-07-11 Thu 12:04]
+** DONE Kluver-Barrera coupes MS-IV en MS-V in serie fotograferen
+   SCHEDULED: <2013-07-15 Mon 11:00>
+  CLOCK: [2013-07-11 Thu 12:05]--[2013-07-11 Thu 12:05] =>  0:00
+[2013-07-11 Thu 12:05]
+** DONE Coupes scannen EAE
+  SCHEDULED: <2013-07-15 Mon 09:45>
+  CLOCK: [2013-07-15 Mon 07:35]--[2013-07-15 Mon 07:35] =>  0:00
+[2013-07-15 Mon 07:35]
+[[file:~/FTP_Data/Planning/org/Thesis.org::*Gesprek%20Lukas%20voorbereiden:%20overzicht%20thesis%20maken][Gesprek Lukas voorbereiden: overzicht thesis maken]]
+** DONE Kluver-Barrera afmaken
+  SCHEDULED: <2013-08-16 Fri 08:30>
+  CLOCK: [2013-07-15 Mon 16:28]--[2013-07-15 Mon 16:28] =>  0:00
+[2013-07-15 Mon 16:28]
+[[file:~/FTP_Data/Planning/org/KIF1B.org::*Kluver-Barrera%20serie%20inzetten%20op%20nieuw%20materiaal%20MSIV%20en%20MSV][Kluver-Barrera serie inzetten op nieuw materiaal MSIV en MSV]]
+** TODO Model ruggenmerg in Blender maken 'Data-guided visualisation'
+   SCHEDULED: <2013-07-17 Wed>
+  CLOCK: [2013-07-16 Tue 17:56]--[2013-07-16 Tue 17:56] =>  0:00
+[2013-07-16 Tue 17:56]

@@ -7,11 +7,33 @@
   CLOCK: [2013-04-06 Sat 20:33]--[2013-04-06 Sat 20:34] =>  0:01
 [2013-04-06 Sat 20:33]
 [[file:~/FTP_Data/Planning/org/refile.org]]
+** DONE Plugin multi-layered tiff GIMP installeren
+  SCHEDULED: <2013-07-16 Tue 09:00>
+  CLOCK: [2013-07-15 Mon 17:36]--[2013-07-15 Mon 17:36] =>  0:00
+[2013-07-15 Mon 17:36]
+[[file:~/FTP_Data/DagVerslag.org::*Maandag%2015%20juli][Maandag 15 juli]]
+** DONE Microscoop KB coupes fotograferen
+  SCHEDULED: <2013-07-16 Tue 16:30>
+  CLOCK: [2013-07-16 Tue 08:08]--[2013-07-16 Tue 08:08] =>  0:00
+[2013-07-16 Tue 08:08]
+** DONE Coupes snijden
+  SCHEDULED: <2013-07-16 Tue 14:00>
+  CLOCK: [2013-07-16 Tue 08:09]--[2013-07-16 Tue 08:09] =>  0:00
+[2013-07-16 Tue 08:09]
 * Analysis of EAE using Rotarod and immunofluorescence
 * Introduction to superresolution
-** TODO Gesprek met Lukas over thesis
+** DONE Gesprek Lukas voorbereiden: overzicht thesis maken
+   SCHEDULED: <2013-07-15 Mon 08:00>
+  CLOCK: [2013-07-15 Mon 07:34]--[2013-07-15 Mon 07:34] =>  0:00
+[2013-07-15 Mon 07:34]
+** DONE Gesprek met Lukas over thesis
   CLOCK: [2013-06-24 Mon 11:46]--[2013-06-24 Mon 11:46] =>  0:00
 [2013-06-24 Mon 11:46]
+*** DONE Gesprek Lukas over thesis
+  SCHEDULED: <2013-07-15 Mon 09:15>
+  CLOCK: [2013-07-11 Thu 14:32]--[2013-07-11 Thu 14:32] =>  0:00
+[2013-07-11 Thu 14:32]
+[[file:~/FTP_Data/Planning/org/KIF1B.org::*Kluver-Barrera%20serie%20inzetten%20op%20nieuw%20materiaal%20MSIV%20en%20MSV][Kluver-Barrera serie inzetten op nieuw materiaal MSIV en MSV]]
 * Correlation between KIF family members
 * Review on transport in MS
 ** TODO Introduction on molecular motors, transport and microtubules.

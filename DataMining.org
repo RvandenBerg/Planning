@@ -1,11 +1,26 @@
 * KIF family members correlation
-** NEXT Analyse KIF5A mutaties in ziekte
+** DONE Analyse KIF5A mutaties in ziekte
+   SCHEDULED: <2013-08-16 Fri 13:30>
   CLOCK: [2013-06-20 Thu 10:59]--[2013-06-20 Thu 10:59] =>  0:00
 [2013-06-20 Thu 10:59]
 [[file:~/FTP_Data/Planning/org/Work.org::*Presentatie%20Voorbereiden][Presentatie Voorbereiden]]
+** DONE KIF analyse: hoogste 25% NeuN + laagste 25% NeuN boxplots
+   SCHEDULED: <2013-07-16 Tue 09:30>
+  CLOCK: [2013-07-16 Tue 08:14]--[2013-07-16 Tue 08:15] =>  0:01
+[2013-07-16 Tue 08:14]
+** DONE Copy datamining KIF family to harddisk
+  SCHEDULED: <2013-07-16 Tue 17:00>
+  CLOCK: [2013-07-16 Tue 10:49]--[2013-07-16 Tue 10:50] =>  0:01
+[2013-07-16 Tue 10:49]
+[[file:~/FTP_Data/Planning/org/Thesis.org::*Plugin%20multi-layered%20tiff%20GIMP%20installeren][Plugin multi-layered tiff GIMP installeren]]
+** TODO Eindrapport KIF family maken
+  SCHEDULED: <2013-07-17 Wed>
+  CLOCK: [2013-07-16 Tue 17:57]--[2013-07-16 Tue 17:57] =>  0:00
+[2013-07-16 Tue 17:57]
+[[file:~/FTP_Data/Planning/org/KIF1B.org::*Model%20ruggenmerg%20in%20Blender%20maken%20'Data-guided%20visualisation'][Model ruggenmerg in Blender maken 'Data-guided visualisation']]
 * Rotarod and clinical score correlation
 * Karin analysis APP animals
-** NEXT Analyse Data Karin
+** DONE Analyse Data Karin
   SCHEDULED: <2013-06-21 Fri>
   CLOCK: [2013-06-20 Thu 10:58]--[2013-06-20 Thu 10:58] =>  0:00
 [2013-06-20 Thu 10:58]

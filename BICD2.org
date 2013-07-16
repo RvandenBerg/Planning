@@ -1,5 +1,5 @@
 * Stainings
-** TODO Confocal Oost 13RS09 and 13RS10
+** DONE Confocal Oost 13RS09 and 13RS10
   SCHEDULED: <2013-06-25 Tue 11:00>
   CLOCK: [2013-06-24 Mon 11:37]--[2013-06-24 Mon 11:38] =>  0:01
 [2013-06-24 Mon 11:37]
@@ -7,9 +7,24 @@
   SCHEDULED: <2013-06-24 Mon 13:30>
   CLOCK: [2013-06-24 Mon 11:42]--[2013-06-24 Mon 11:43] =>  0:01
 [2013-06-24 Mon 11:42]
+** DONE Kleuring 13RS11 inzetten (Cilia met GFAP en Calbindin,...?)
+  SCHEDULED: <2013-06-26 Wed 14:00>
+  CLOCK: [2013-06-26 Wed 12:45]--[2013-06-26 Wed 12:46] =>  0:01
+[2013-06-26 Wed 12:45]
+** DONE 13RS11 afmaken
+  SCHEDULED: <2013-06-28 Fri>
+  CLOCK: [2013-06-26 Wed 17:58]--[2013-06-26 Wed 17:58] =>  0:00
+[2013-06-26 Wed 17:58]
 * Analysis
 ** NEXT kweeksysteem cerebellaire migratie uitzoeken
   CLOCK: [2013-05-06 Mon 16:20]--[2013-05-06 Mon 16:20] =>  0:00
 [2013-05-06 Mon 16:20]
 [[file:~/FTP_Data/Planning/org/Work.org::*IP%20data%20BICD%20analyseren][IP data BICD analyseren]]
+** TODO BICD-2 hydrocephalus analyseren
+  CLOCK: [2013-06-26 Wed 12:46]--[2013-06-26 Wed 12:46] =>  0:00
+[2013-06-26 Wed 12:46]
+** TODO Quantify Tenascin C in P11 cortex 13RS10_09 and 13RS10_10
+   SCHEDULED: <2013-07-17 Wed>
+  CLOCK: [2013-07-09 Tue 15:56]--[2013-07-09 Tue 15:57] =>  0:01
+[2013-07-09 Tue 15:56]
 * Collaboration

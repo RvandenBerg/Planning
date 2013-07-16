@@ -1,6 +1,6 @@
 * BICD-2
 * KIF1B
-** TODO Verzenden KIF1B muizen naar Engeland
+** DONE Verzenden KIF1B muizen naar Engeland
   SCHEDULED: <2013-06-12 Wed>
   CLOCK: [2013-04-08 Mon 15:27]--[2013-04-08 Mon 15:27] =>  0:00
 [2013-04-08 Mon 15:27]
@@ -11,8 +11,16 @@
   CLOCK: [2013-06-21 Fri 18:24]--[2013-06-21 Fri 18:24] =>  0:00
 [2013-06-21 Fri 18:24]
 [[file:~/FTP_Data/Planning/org/Work.org::*Confocal%20oost][Confocal oost]]
-** NEXT PCR muizen
-  SCHEDULED: <2013-06-25 Tue>
+** DONE PCR muizen
+  SCHEDULED: <2013-06-25 Tue 08:00>
   CLOCK: [2013-06-24 Mon 10:45]--[2013-06-24 Mon 10:46] =>  0:01
 [2013-06-24 Mon 10:45]
 [[file:~/FTP_Data/Planning/org/Work.org::*PCR%20muizen%20overnacht%20staartjes%20in%20mix!][PCR muizen overnacht staartjes in mix!]]
+** NEXT Nieuwe kruisingen inzetten GG3099 en GG3100
+  SCHEDULED: <2013-07-13 Sat 11:00>
+  CLOCK: [2013-07-11 Thu 12:02]--[2013-07-11 Thu 12:03] =>  0:01
+[2013-07-11 Thu 12:02]
+** TODO Dieren aanvragen voor KIF1B knockout controle
+  SCHEDULED: <2013-07-12 Fri>
+  CLOCK: [2013-07-11 Thu 12:03]--[2013-07-11 Thu 12:03] =>  0:00
+[2013-07-11 Thu 12:03]
