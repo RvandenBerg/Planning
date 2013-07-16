@@ -1,0 +1,15 @@
+* Analysis EAE in tubastatin animals
+** DONE Analysis 13WB07
+   SCHEDULED: <2013-07-16 Tue 11:00>
+  CLOCK: [2013-06-25 Tue 15:59]--[2013-06-25 Tue 16:00] =>  0:01
+[2013-06-25 Tue 15:59]
+[[file:~/FTP_Data/Planning/org/Animals.org::*Verzenden%20KIF1B%20muizen%20naar%20Engeland][Verzenden KIF1B muizen naar Engeland]]
+** DONE Actin reprobe 13WB07
+   SCHEDULED: <2013-07-16 Tue 16:00>
+  CLOCK: [2013-06-25 Tue 16:01]--[2013-06-25 Tue 16:01] =>  0:00
+[2013-06-25 Tue 16:01]
+[[file:~/FTP_Data/Planning/org/Animals.org::*Verzenden%20KIF1B%20muizen%20naar%20Engeland][Verzenden KIF1B muizen naar Engeland]]
+** TODO Acetylated Tub reprobe 13WB07 afmaken
+  SCHEDULED: <2013-07-18 Thu>
+  CLOCK: [2013-07-16 Tue 16:38]--[2013-07-16 Tue 16:39] =>  0:01
+[2013-07-16 Tue 16:38]

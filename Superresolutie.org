@@ -1,0 +1,14 @@
+* Driftcorrectie_programming
+** TODO Drift correctie in R opzoeken en opschonen
+  CLOCK: [2013-07-15 Mon 17:35]--[2013-07-15 Mon 17:35] =>  0:00
+[2013-07-15 Mon 17:35]
+[[file:~/FTP_Data/DagVerslag.org::*Maandag%2015%20juli][Maandag 15 juli]]
+** TODO Drift correctie testen op dataset Eugene
+  CLOCK: [2013-07-15 Mon 17:35]--[2013-07-15 Mon 17:35] =>  0:00
+[2013-07-15 Mon 17:35]
+[[file:~/FTP_Data/DagVerslag.org::*Maandag%2015%20juli][Maandag 15 juli]]
+** DONE Broncode driftcorrectie opzoeken en opschonen
+  CLOCK: [2013-07-15 Mon 17:33]--[2013-07-15 Mon 17:33] =>  0:00
+[2013-07-15 Mon 17:33]
+[[file:~/FTP_Data/DagVerslag.org::*Maandag%2015%20juli][Maandag 15 juli]]
+* Driftcorrectie_experiments
