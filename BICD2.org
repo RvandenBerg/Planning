@@ -15,6 +15,11 @@
   SCHEDULED: <2013-06-28 Fri>
   CLOCK: [2013-06-26 Wed 17:58]--[2013-06-26 Wed 17:58] =>  0:00
 [2013-06-26 Wed 17:58]
+** TODO Ki67 kleuringen met NeuN voor Dick
+  SCHEDULED: <2013-07-18 Thu>
+  CLOCK: [2013-07-17 Wed 18:18]--[2013-07-17 Wed 18:18] =>  0:00
+[2013-07-17 Wed 18:18]
+[[file:~/FTP_Data/Dagverslag_2013_07_17.org::*Woensdag%2017%20juli%202013][Woensdag 17 juli 2013]]
 * Analysis
 ** NEXT kweeksysteem cerebellaire migratie uitzoeken
   CLOCK: [2013-05-06 Mon 16:20]--[2013-05-06 Mon 16:20] =>  0:00
